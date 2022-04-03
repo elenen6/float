@@ -1,11 +1,7 @@
-.test1{
-	display: inline-block;
+.image{
 	float: right;
-}
-.test2{
-	display: inline-block;
-	float: right;
-}
-.wraper{
-	background-color: red;
+	width: 370px;
+	height: 287.78px;
+	margin: 30px;
+
 }
