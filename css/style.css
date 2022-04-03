@@ -1,7 +1,59 @@
+/*header*/
 .image{
 	float: right;
-	width: 370px;
-	height: 287.78px;
-	margin: 30px;
+	width: 200px;
+	height: 150px;
+	vertical-align: top;
+}
+.navigation{
+	float: right;
+	vertical-align: top;
+}
+.nav-li{
+	display: inline-block;	
+	margin-right: 50px;
+	font-size: 35px;
+}
+.clear{
+	clear: right;
+}
+body{
+	border: 3px solid #006400;
+	background-color: #197419
+}
+.nav-text{
+	color: white;
+}
+/*Section*/
+/*div1*/
+.div1{
+	width: 617px;
+	background-color: yellow;
+	float: right;
+	margin: 5px;
+}
+.image1{
+	width: 150px;
+	height: 118px;
+	float: right;
+	margin: 5px;
+}
+/*div2*/
+.div2{
+	width: 617px;
+	float: right;
+	background-color: yellow;
+	margin: 5px;
+}
+.image2{
+	width: 150px;
+	height: 118px;
+	float: left;
+	margin: 5px;
+}
 
+.p1{
+	margin: 10px;
+	color: #006400;
+	text-transform: uppercase;
 }
